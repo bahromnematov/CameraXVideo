@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xhdpi_ic_start.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xhdpi\\ic_start.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-ldpi_ic_resume.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-ldpi\\ic_resume.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-ldpi_ic_pause.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-ldpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-anydpi-v24_ic_start.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-anydpi-v24\\ic_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-mdpi_ic_start.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-mdpi\\ic_start.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxhdpi_ic_switch.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxhdpi\\ic_switch.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxxhdpi_ic_resume.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxxhdpi\\ic_resume.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\layout_fragment_video_viewer.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\fragment_video_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\color_selector_button_text.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\color\\selector_button_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-mdpi_ic_resume.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-mdpi\\ic_resume.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\layout-land_fragment_capture.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout-land\\fragment_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-anydpi-v24_ic_switch.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-anydpi-v24\\ic_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xhdpi_ic_switch.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xhdpi\\ic_switch.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-anydpi-v24_ic_resume.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-anydpi-v24\\ic_resume.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxhdpi_ic_start.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxhdpi\\ic_start.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\layout_fragment_capture.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\fragment_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-hdpi_ic_back.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\drawable-hdpi\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-hdpi_ic_start.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-hdpi\\ic_start.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxxhdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxxhdpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-anydpi-v24_ic_pause.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-anydpi-v24\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-ldpi_ic_stop.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-ldpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-hdpi_ic_resume.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-hdpi\\ic_resume.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxxhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-mdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-mdpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-hdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-hdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-hdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-hdpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-hdpi_ic_switch.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-hdpi\\ic_switch.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxhdpi_ic_resume.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxhdpi\\ic_resume.png"
+    },
+    {
+        "merged": "com.example.android.camerax.video.app-merged_res-45:/layout_fragment_capture.xml.flat",
+        "source": "com.example.android.camerax.video.app-main-47:/layout/fragment_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\layout_fragment_permission.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\fragment_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-ldpi_ic_switch.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-ldpi\\ic_switch.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xhdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xhdpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xhdpi_ic_resume.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xhdpi\\ic_resume.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\layout_video_quality_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\video_quality_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\color_selector_ic.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\color\\selector_ic.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable_selector_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\drawable\\selector_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxxhdpi_ic_start.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxxhdpi\\ic_start.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-anydpi-v24_ic_stop.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-anydpi-v24\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-mdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-mdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-mdpi_ic_switch.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-mdpi\\ic_switch.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-ldpi_ic_start.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-ldpi\\ic_start.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxhdpi_ic_stop.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxhdpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-merged_res-45:\\drawable-xxxhdpi_ic_switch.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-pngs-40:\\drawable-xxxhdpi\\ic_switch.png"
+    }
+]

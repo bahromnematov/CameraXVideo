@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.example.android.camerax.video.fragments.PermissionsFragmentDirections","com.example.android.camerax.video.fragments.CaptureFragmentDirections","com.example.android.camerax.video.fragments.VideoViewerFragmentDirections","com.example.android.camerax.video.fragments.VideoViewerFragmentArgs"]}]

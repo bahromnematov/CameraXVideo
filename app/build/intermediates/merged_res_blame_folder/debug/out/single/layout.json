@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-mergeDebugResources-44:\\layout\\fragment_capture.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\fragment_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-mergeDebugResources-44:\\layout\\fragment_video_viewer.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\fragment_video_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-mergeDebugResources-44:\\layout\\fragment_permission.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\fragment_permission.xml"
+    },
+    {
+        "merged": "com.example.android.camerax.video.app-mergeDebugResources-44:/layout/fragment_capture.xml",
+        "source": "com.example.android.camerax.video.app-main-47:/layout/fragment_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-mergeDebugResources-44:\\layout\\video_quality_item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout\\video_quality_item.xml"
+    }
+]

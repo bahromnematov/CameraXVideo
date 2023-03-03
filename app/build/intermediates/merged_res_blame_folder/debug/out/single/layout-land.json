@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-mergeDebugResources-44:\\layout-land\\fragment_capture.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.android.camerax.video.app-main-47:\\layout-land\\fragment_capture.xml"
+    },
+    {
+        "merged": "com.example.android.camerax.video.app-mergeDebugResources-44:/layout-land/fragment_capture.xml",
+        "source": "com.example.android.camerax.video.app-main-47:/layout-land/fragment_capture.xml"
+    }
+]
