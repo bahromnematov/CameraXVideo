@@ -61,8 +61,6 @@ Screenshots
 Support
 -------
 
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
 If you've found an error in this sample, please file an issue:
 https://github.com/android/camera-samples
 
